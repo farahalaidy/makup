@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>
+amr diab
+</title>
+<body>
+<p>
+<h1>amr diab is an singer</h1>
+<img src="m.jpg ">
+</p>
+<h2>what he did</h2>
+<ul>
+<li>وحشتيني</li>
+</li> قصاد عيني</li>
+</ul>
+<h3>this is video </h3>
+<video controls>
+<source src= "D:\Users Profiles\labuser\Downloads\عمرو دياب - بطمن عليك حصرياً من Vodafone Music.mp4">
+<\video>
+<table>
+<tr>
+<th>music</th>
+<td> sing</td>
+</body>
+</html>
+
